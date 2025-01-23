@@ -3,8 +3,8 @@ This dataset contains simulated data related to manufacturing defects observed d
 
 Directory Structure:
 main.py: The main script for predictions.
-model.pkl: Pre-trained machine learning model.
-requirements.txt: List of dependencies.
+models.py:
+
 README.md: This file.
 
 Usage Instruction:
